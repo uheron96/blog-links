@@ -80,12 +80,12 @@ p {
   margin-bottom: 8px;
 }
 
-#link:hover {
+a:hover {
   background-color: hsl(75, 94%, 57%);
   color: hsl(0, 0%, 8%);
 }
 
-#link {
+a {
   color: hsl(0, 0%, 100%);
   font-family: "Inter";
   font-weight: 700;
